@@ -1,7 +1,7 @@
 // Jest는 페이스북에서 만든 테스팅 도구
 // zero-configuration => 빠르게 테스트 작성 가능
 
-const fn = require("./fn.js");
+// const fn = require("./fn.js");
 /* 
 test("2 더하기 3은 5야.", () => {
   expect(fn.add(2, 3)).toBe(5);
